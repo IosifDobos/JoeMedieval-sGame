@@ -13,5 +13,5 @@ C# OOP language was used for this game. As I am new with this language, I had to
 This is an individual project made by Iosif Dobos. Before create the game some reasearch was made and I create a plan on order to build the game. This is a start of my project and I want to expand this game in the future
 to build a good game.
 
-Bellow I have attached the youtube link for my game. 
+The youtube link for my game. 
 	https://www.youtube.com/watch?v=vLpP5VYMGcU
