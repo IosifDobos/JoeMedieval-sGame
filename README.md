@@ -9,10 +9,11 @@ I have create an inventory panel for the player where it can store all the rewar
 This project is still ongoing and I want to bring this game to a high standard.
 
 ## Technology used for my game:
-	I have used GitHub to store my game and as a backup. I have used Unity Engine to create the game. All assets that are used in my game are downloaded and imported from 
+I have used GitHub to store my game and as a backup. I have used Unity Engine to create the game. 
+All assets that are used in my game are downloaded and imported from 
 Unity Assets store free of charge. C# OOP language was used for this game. As I am new with this language, I had to do some research online and I bought few unity courses on udemy 
 to get some experience before starting the game. 
-This is an individual project made by Iosif Dobos. Before creating the game some reasearch was made and I have created a plan on order to build the game. 
+This is an individual project made by Iosif Dobos. Before creating the game some research was made and I have created a plan on order to build the game. 
 This is a start of my project and I want to expand this game in the future to build a good game.
 
-The youtube link for my game.  https://www.youtube.com/watch?v=YtvvlE8aiAs
+The youtube link for my game:  https://www.youtube.com/watch?v=YtvvlE8aiAs
